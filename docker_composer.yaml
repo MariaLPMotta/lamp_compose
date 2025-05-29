@@ -77,7 +77,7 @@ sevices:
         - lamp-network
 networks:
    lamp-network:
-     diver: bidge
+     diver: bridge
 
 volumes:
   postgres:
